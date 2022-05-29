@@ -15,14 +15,15 @@ It can fit an enclosure with dimensions of 35x35x4 mm
 - revision 1.0
   - Information / Image programmer for E-Ink / E-paper Display  
  
-
-
 ## Download options
 Download this repository if you need the KiCad Files
 
 Or,
 
 Download the Gerber files in the release section of this repository
+
+## Liked it ? Get a Free PCB for yourself
+Send my your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
 
 ## Join the WhatsApp Group
 If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
