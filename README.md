@@ -8,6 +8,11 @@ It can fit an enclosure with dimensions of 35x35x4 mm
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_E_Ink_E_Paper_Display_Programmer.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-E-Ink-E-Paper-Display-Programmer/total?style=for-the-badge)
 
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-E-Ink-E-Paper-Display-Programmer/blob/main/designs/working_yellow.png)  Waiting for first batch from factory. Not tested.
+
+If you already tested this PCB send me a message. Thank you
+
 ## Revisions
 - revision 2.0 (ToDo)
   - Android & Desktop Apps
