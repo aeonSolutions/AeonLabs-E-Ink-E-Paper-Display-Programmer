@@ -1,4 +1,9 @@
-# AeonLabs E-Ink / E-Paper Display Programmer
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart LCD Touch Displays](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20LCD%20Touch%20Displays)  >>  E-Ink / E-Paper Display Programmer
+
+<br>
+
+
+# E-Ink / E-Paper Display Programmer
 This repo contains the KiCad files for the AeonLabs E-Ink / E-Paper Display Programmer. This PCB can program any E-Ink Displays with a 24 pin FPC/FFC connector.
 It can fit an enclosure with dimensions of 35x35x4 mm
 
